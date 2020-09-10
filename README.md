@@ -1,1 +1,1 @@
-QA Auto Еустовое задание для Andersen Trainee
+QA Auto Тестовое задание для Andersen Trainee
